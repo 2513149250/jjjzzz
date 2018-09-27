@@ -17,7 +17,7 @@ import  java.awt.print.Printable ;
 		狗。打印（）;
 		Cat cat =  new  Cat（“ 猫 ”，“二猫”，“三猫”，5）;
 		猫。打印（）;
-		鱼鱼=  新 鱼（“大鱼”，“中鱼”，“”，2）;
+		鱼鱼=  新 鱼（“大鱼”，“中鱼”，“LHS”，2）;
 		鱼。打印（）;
 	    Rabiit rabiit =  new  Rabiit（“ 444 ”，“333”，“22”，1）;
 		rabiit 。打印（）;
