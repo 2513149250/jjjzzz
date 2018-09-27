@@ -19,12 +19,12 @@ System.out.println("动物园里有什么");
 
 public class Test{
 public static void main(String args[]){
-Father father;
-father = new Son1();
-father.hitChild();
-father = new Son2();
-father.hitChild();
-father = new Son3();
-father.hitChild();
+ Zoo Zoo;
+Zoo = new Son1();
+Zoo.hitChild();
+Zoo = new Son2();
+Zoo.hitChild();
+Zoo = new Son3();
+Zoo.hitChild();
 }
 }
