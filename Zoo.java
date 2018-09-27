@@ -1,8 +1,8 @@
 import  java.awt.print.Printable ;
-public class Father{
-//父类有一个打孩子方法
+public class Zoo{
+
 public void hitChild(){
-System.out.println("爸爸打儿子天经地义");
+System.out.println("动物园里有什么");
 }
 }
 
